@@ -44,7 +44,7 @@ const App = () => {
               type="text"
               id="userid"
               name="userid"
-              placeholder="Enter User ID"
+              placeholder="Enter Username"
               className="border border-gray-300 rounded py-2 px-3 w-full focus:outline-none focus:ring focus:border-blue-300"
               value={userId}
               onChange={handleUserIdChange}
