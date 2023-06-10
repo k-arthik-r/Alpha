@@ -88,6 +88,7 @@ npx tailwindcss init
 
 ## Feedback
 If you have any feedback, please reach out to us at voidex.developer@gmail.com
+
 -----------------------------
 
 ### Note: You can See the Entire Project Files [Here](Project Files)
