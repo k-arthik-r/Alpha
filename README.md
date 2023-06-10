@@ -2,7 +2,8 @@
   <h1>Alpha</h1>
 </div>
 
-![React](https://github.com/k-arthik-r/Alpha/assets/111432615/168a8406-5956-4248-83b7-37165bd8f2f9)
+![React](https://github.com/k-arthik-r/Alpha/assets/111432615/df8c11d1-4a1c-488f-989a-09a476705b27)
+
 
 
 
