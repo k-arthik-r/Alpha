@@ -12,8 +12,19 @@
 ---------------------------
 
 ## Description
+A Simple Desktop Responsive only, Static Site, With only Frontend Development along with some Example Javascript Codes Developed using React and Javascript for Just a Demo Presentation for Ideathon-2K23 Organized by CII India.
 
-
+-----------------------------
+## Key Note
+* This is not a fully functional site because its just contitute with Front End.
+* its Developed only as Desktop Responsive and using it in any other Screen may result in crashing of the site.
+* This is Just a replica/ prototype of Actual User Interface of our project and does not include any Working Mechanism with it.
+* it is Constitute with some amount of Javascript code Required only for the Demo to be shown in front of Judges.
+* its Just FrontEnd and doest not compiled with any kind of BackEnd or database.
+* All the data used as the part of the site are Static and doesnt change Dynamically with time.
+* the default username and password for the site is: Username: karthik | Password: admin1234 which is constant.
+* this is a part of the entire project developed as one of the duplet and you can see the other site [Here](https://k-arthik-r.github.io/AlphaShop)
+ 
 ## Getting Started with Create React App
 
 This Replica was bootstrapped with Create React App
