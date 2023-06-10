@@ -1,5 +1,8 @@
-# Alpha
+<div align='center'>
+  <h1>Alpha</h1>
+</div>
 
+![React](https://github.com/k-arthik-r/Alpha/assets/111432615/168a8406-5956-4248-83b7-37165bd8f2f9)
 
 
 
