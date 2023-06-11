@@ -11,7 +11,7 @@ const Thankyou = (props) => {
       <div className="text-center">
         <h2 className="text-6xl text-black font-bold mb-4"><span className='text-rose-500'>Thank you </span> for your Contribution</h2>
         <p className="text-black font-bold text-xl">
-          Transaction successful! <span className='text-red-500 font-black'>{coins}</span> Alpha Coins has been credited to your account.
+          Transaction successful! <span className='text-red-500 font-black'>{coins}</span> Alpha Coins has been credited to your Account.
         </p>
       </div>
     </div>
