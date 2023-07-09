@@ -98,7 +98,7 @@ const Second = () => {
         </div>
 
         <p className="text-4xl font-bold mb-10 mt-10">
-          Balance Alpha Coins: <span className="text-green-500">754</span>
+          Balance Eco Coins: <span className="text-green-500">754</span>
         </p>
         <div className="flex items-center justify-center">
           <div className="border border-gray-600 rounded-lg px-4 py-2 flex items-center">
