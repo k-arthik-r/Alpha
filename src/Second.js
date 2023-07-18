@@ -63,7 +63,7 @@ const Second = () => {
           />
           <div>
             <h2 className="text-xl font-bold mb-1">Karthik</h2>
-            <p className="text-gray-400">Balance Alpha Coins: 754</p>
+            <p className="text-gray-400">Balance Eco Coins: 754</p>
           </div>
         </div>
 
@@ -98,7 +98,7 @@ const Second = () => {
         </div>
 
         <p className="text-4xl font-bold mb-10 mt-10">
-          Balance Alpha Coins: <span className="text-green-500">754</span>
+          Balance Eco Coins: <span className="text-green-500">754</span>
         </p>
         <div className="flex items-center justify-center">
           <div className="border border-gray-600 rounded-lg px-4 py-2 flex items-center">
@@ -130,7 +130,7 @@ const Second = () => {
           </p>
         )}
         <p className="text-2xl font-bold mt-10">
-          The value for the Recycled goods: <span className="text-green-500">{coins}</span> Alpha Coins
+          The value for the Recycled goods: <span className="text-green-500">{coins}</span> Eco Coins
         </p>
 
         {/* Submit and Cancel buttons */}

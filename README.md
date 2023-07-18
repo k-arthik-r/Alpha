@@ -1,4 +1,4 @@
-<h1 align='center'>Alpha</h1>
+<h1 align='center'>Alpha</h1> 
 
 <div align='center'>
   <a><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a> &nbsp;
@@ -13,7 +13,7 @@
 ---------------------------
 
 ## Description
-A Simple Desktop Responsive only, Static Site, With only Frontend Development along with some Example Javascript Codes Developed using React and Javascript for Just a Demo Presentation for Ideathon-2K23 Organized by CII India.
+Presenting a desktop responsive, static desktop site developed for Ideathon-2K23 Organized by CII India. Demonstrates frontend expertise with interactive JavaScript codes using React, showcasing dynamic UI and seamless user experience. No backend functionality, solely focused on frontend development.
 
 -----------------------------
 ## Key Notes
@@ -78,7 +78,7 @@ npm install -D tailwindcss
 npx tailwindcss init
 
 ```
-------------------------
+-------------------------
 
 ## License
 
