@@ -80,6 +80,12 @@ npx tailwindcss init
 ```
 -------------------------
 
+## Step by Step guide through the Alpha
+
+Click [Here](https://app.tango.us/app/workflow/Navigating-the-Karthik-Login-and-User-Info-Forms-2cff24d253a145d0a598447c5313339b) to know the step by step process through the site.
+
+--------------------------
+
 ## License
 
 [![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE)
